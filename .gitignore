@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# AI Models
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+# Dataset
+datasets/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
